@@ -1,5 +1,8 @@
-from decimal import Decimal
+# Тема дипломной:
+# № 5. Анализ и сравнение различных способов обработки и хранения больших данных:
+# Pandas, Dask и Apache Spark
 
+from decimal import Decimal
 import dask.dataframe as dd
 import matplotlib.pyplot as plt
 import seaborn as sns
