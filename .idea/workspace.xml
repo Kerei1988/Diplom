@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b376e782-dd18-4170-8473-03d8ccd0e9d7" name="Changes" comment="'Анализ базы данных, бибилиотека Dask'">
+      <change afterPath="$PROJECT_DIR$/Data-Science-Jobs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonDiplomPandas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonDiplomPandas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dask.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dask.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas.py" afterDir="false" />
@@ -49,15 +51,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Dask.executor": "Run",
+    "Python.Pandas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/PycharmProjects/pythonDiplomPandas"
+    "last_opened_file_path": "C:/PycharmProjects/pythonDiplomPandas",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
