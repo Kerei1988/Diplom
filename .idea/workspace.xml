@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b376e782-dd18-4170-8473-03d8ccd0e9d7" name="Changes" comment="'Анализ базы данных, бибилиотека Dask'">
-      <change afterPath="$PROJECT_DIR$/Data-Science-Jobs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonDiplomPandas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonDiplomPandas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/job_analytics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/base_processor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loaders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loaders/dask_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loaders/pandas_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processors/salary_processor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualyzation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualyzation/plot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dask.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data-Science-Jobs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Data-Science-Jobs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +62,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Dask.executor": "Run",
-    "Python.Pandas.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/PycharmProjects/pythonDiplomPandas",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Dask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pandas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PycharmProjects/pythonDiplomPandas&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\pythonDiplomPandas" />
+      <recent name="C:\PycharmProjects\pythonDiplomPandas\project\data" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
